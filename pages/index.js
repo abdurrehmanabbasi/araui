@@ -13,8 +13,7 @@ export default function Home() {
       <h2 className="text-2xl">Here list of ARAUI components made with tailwindcss</h2>
       <ul className="mt-10 flex flex-col gap-y-10 ">
         <li><Link href="/simplesidenav">Simple Sidenav</Link></li>
-        <li><Link href="/simplesidenav">Simple Sidenav</Link></li>
-        <li><Link href="/simplesidenav">Simple Sidenav</Link></li>
+        <li><Link href="/learnhooks">Learn Hooks</Link></li>
       </ul>
       
     </div>
